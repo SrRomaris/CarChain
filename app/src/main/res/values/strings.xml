@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarChain</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_google">Login with Google</string>
+    <string name="cant_login">Can\'t login? Find help here.</string>
+    <string name="register">Don\'t have an account? Register here.</string>
+</resources>
